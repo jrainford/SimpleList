@@ -3,8 +3,10 @@ Simple List is a beginner C++ program to keep track of a list of items.
 
 Demonstrates VSCode debugging when built with makefile
 
+```
 $ make clean
 $ make
+```
 
 Run with 
 
