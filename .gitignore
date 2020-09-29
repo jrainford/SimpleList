@@ -1,0 +1,7 @@
+database.d
+list.d
+main.d
+SimpleList
+obj/database.o
+obj/list.o
+obj/main.o
